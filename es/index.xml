@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psycho notes</title>
+    <link>http://localhost:53338/es/</link>
+    <description>Recent content on Psycho notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>bakerst221b.uk@gmail.com (Veronica)</managingEditor>
+    <webMaster>bakerst221b.uk@gmail.com (Veronica)</webMaster>
+    <lastBuildDate>Tue, 02 Jan 2024 16:01:23 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:53338/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>General</title>
+      <link>http://localhost:53338/es/post/categories/interesting/notes/</link>
+      <pubDate>Tue, 02 Jan 2024 16:01:23 +0800</pubDate>
+      <author>bakerst221b.uk@gmail.com (Veronica)</author>
+      <guid>http://localhost:53338/es/post/categories/interesting/notes/</guid>
+      
+        <description>&lt;p&gt;*In these notes common things about deceit, lies and how to spot something. *&lt;/p&gt;
+&lt;p&gt;Deceit types&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Plain lie&lt;/li&gt;
+&lt;li&gt;Omission&lt;/li&gt;
+&lt;li&gt;Implication&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The main thing is congruence: you sad - you act sad. If anything gives away happiness, there might be a lie going on.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;details&gt;
+    &lt;summary&gt;Expand&amp;hellip;&lt;/summary&gt;
+    &lt;p&gt;[1]&lt;/p&gt;
+&lt;p&gt;[2]&lt;/p&gt;
+
+&lt;/details&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Como puedo ayudarle?</title>
+      <link>http://localhost:53338/es/post/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>bakerst221b.uk@gmail.com (Veronica)</author>
+      <guid>http://localhost:53338/es/post/home/</guid>
+      
+        <description>&lt;p&gt;&lt;img src=&#34;bike.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;La primera pajina en Espanol.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Sobre mi</title>
+      <link>http://localhost:53338/es/post/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>bakerst221b.uk@gmail.com (Veronica)</author>
+      <guid>http://localhost:53338/es/post/about/</guid>
+      
+        <description>&lt;blockquote&gt;
+&lt;p&gt;Si quieres hablar, habla!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;esta-historia-sera-perfecta&#34;&gt;Esta historia sera perfecta&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&amp;hellip; or how I entered the InfoSec field&lt;/em&gt;&lt;/p&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:53338/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  class=&#34;avatar&#34;  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:53338/images/avatar.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;http://localhost:53338/images/avatar.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Меня зовут Вероника и это начало чего-то нового.&lt;/p&gt;
+&lt;h2 id=&#34;research-interest&#34;&gt;Research Interest&lt;/h2&gt;
+&lt;h2 id=&#34;main-skills&#34;&gt;Main skills&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Reverse engineering&lt;/li&gt;
+&lt;li&gt;Mobile application security&lt;/li&gt;
+&lt;li&gt;Web application security&lt;/li&gt;
+&lt;li&gt;Digital forensics&lt;/li&gt;
+&lt;li&gt;Incident Response&lt;/li&gt;
+&lt;li&gt;Threat Hunting&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://e-notabene.ru/istinf/article_26871.html&#34;&gt;Garskova I.M, Zueva V.A.&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;certificates&#34;&gt;Certificates&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Certified Ethical Hacker v9&lt;/li&gt;
+&lt;li&gt;Coursera: Software Security (Coursera, Maryland University), Cryptography (Coursera, Maryland University)&lt;/li&gt;
+&lt;li&gt;Udemy: SDF Windows Prefetch Forensics, Mobile Forensics&lt;/li&gt;
+&lt;li&gt;Autopsy&lt;/li&gt;
+&lt;li&gt;TestDaF&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Музыка (играю на скрипке)&lt;/li&gt;
+&lt;li&gt;Криптография, загадки, ребусы&lt;/li&gt;
+&lt;li&gt;Eastern martial arts 🥋&lt;/li&gt;
+&lt;li&gt;Foreign languages ( 🇬🇧, 🇪🇸 , 🇩🇪 )&lt;/li&gt;
+&lt;li&gt;Buddhism philosophy 🧘&lt;/li&gt;
+&lt;li&gt;Psychology 🧠&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>

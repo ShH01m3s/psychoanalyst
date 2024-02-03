@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analyst on Psycho notes</title>
+    <link>http://localhost:53338/es/post/</link>
+    <description>Recent content in Analyst on Psycho notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="http://localhost:53338/es/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como puedo ayudarle?</title>
+      <link>http://localhost:53338/es/post/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:53338/es/post/home/</guid>
+      <description>La primera pajina en Espanol.</description>
+    </item>
+    
+    <item>
+      <title>Sobre mi</title>
+      <link>http://localhost:53338/es/post/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:53338/es/post/about/</guid>
+      <description> Si quieres hablar, habla!
+Esta historia sera perfecta &amp;hellip; or how I entered the InfoSec field
+Меня зовут Вероника и это начало чего-то нового.
+Research Interest Main skills Reverse engineering Mobile application security Web application security Digital forensics Incident Response Threat Hunting Publications Garskova I.M, Zueva V.A. Certificates Certified Ethical Hacker v9 Coursera: Software Security (Coursera, Maryland University), Cryptography (Coursera, Maryland University) Udemy: SDF Windows Prefetch Forensics, Mobile Forensics Autopsy TestDaF Hobbies Музыка (играю на скрипке) Криптография, загадки, ребусы Eastern martial arts 🥋 Foreign languages ( 🇬🇧, 🇪🇸 , 🇩🇪 ) Buddhism philosophy 🧘 Psychology 🧠 </description>
+    </item>
+    
+  </channel>
+</rss>

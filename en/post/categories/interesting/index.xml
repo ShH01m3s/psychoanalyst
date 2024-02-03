@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Collection on Psycho notes</title>
+    <link>http://localhost:53338/en/post/categories/interesting/</link>
+    <description>Recent content in The Collection on Psycho notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2024 16:01:23 +0800</lastBuildDate><atom:link href="http://localhost:53338/en/post/categories/interesting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General</title>
+      <link>http://localhost:53338/en/post/categories/interesting/notes/</link>
+      <pubDate>Tue, 02 Jan 2024 16:01:23 +0800</pubDate>
+      
+      <guid>http://localhost:53338/en/post/categories/interesting/notes/</guid>
+      <description>&lt;p&gt;*In these notes common things about deceit, lies and how to spot something. *&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Interesting</title>
+      <link>http://localhost:53338/en/post/categories/interesting/interesting/</link>
+      <pubDate>Thu, 28 Jul 2022 15:14:39 +1000</pubDate>
+      
+      <guid>http://localhost:53338/en/post/categories/interesting/interesting/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Some interesting random facts that need to reflected on in the Blog section.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

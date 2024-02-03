@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Psycho notes</title>
-    <link>http://localhost:53338/es/</link>
+    <link>http://localhost:53689/psychoanalyst/es/</link>
     <description>Recent content on Psycho notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
@@ -10,15 +10,15 @@
     <webMaster>bakerst221b.uk@gmail.com (Veronica)</webMaster>
     <lastBuildDate>Tue, 02 Jan 2024 16:01:23 +0800</lastBuildDate>
     
-        <atom:link href="http://localhost:53338/es/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:53689/psychoanalyst/es/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>General</title>
-      <link>http://localhost:53338/es/post/categories/interesting/notes/</link>
+      <link>http://localhost:53689/psychoanalyst/es/post/categories/interesting/notes/</link>
       <pubDate>Tue, 02 Jan 2024 16:01:23 +0800</pubDate>
       <author>bakerst221b.uk@gmail.com (Veronica)</author>
-      <guid>http://localhost:53338/es/post/categories/interesting/notes/</guid>
+      <guid>http://localhost:53689/psychoanalyst/es/post/categories/interesting/notes/</guid>
       
         <description>&lt;p&gt;*In these notes common things about deceit, lies and how to spot something. *&lt;/p&gt;
 &lt;p&gt;Deceit types&lt;/p&gt;
@@ -40,10 +40,10 @@
     
     <item>
       <title>Como puedo ayudarle?</title>
-      <link>http://localhost:53338/es/post/home/</link>
+      <link>http://localhost:53689/psychoanalyst/es/post/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bakerst221b.uk@gmail.com (Veronica)</author>
-      <guid>http://localhost:53338/es/post/home/</guid>
+      <guid>http://localhost:53689/psychoanalyst/es/post/home/</guid>
       
         <description>&lt;p&gt;&lt;img src=&#34;bike.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;La primera pajina en Espanol.&lt;/p&gt;
@@ -53,10 +53,10 @@
     
     <item>
       <title>Sobre mi</title>
-      <link>http://localhost:53338/es/post/about/</link>
+      <link>http://localhost:53689/psychoanalyst/es/post/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bakerst221b.uk@gmail.com (Veronica)</author>
-      <guid>http://localhost:53338/es/post/about/</guid>
+      <guid>http://localhost:53689/psychoanalyst/es/post/about/</guid>
       
         <description>&lt;blockquote&gt;
 &lt;p&gt;Si quieres hablar, habla!&lt;/p&gt;
@@ -64,14 +64,14 @@
 &lt;h2 id=&#34;esta-historia-sera-perfecta&#34;&gt;Esta historia sera perfecta&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;&amp;hellip; or how I entered the InfoSec field&lt;/em&gt;&lt;/p&gt;
 
-&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:53338/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:53689/psychoanalyst/psychoanalyst/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34;&gt;
 &lt;figure  class=&#34;avatar&#34;  itemprop=&#34;associatedMedia&#34;
   itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:53338/images/avatar.jpg&#34; /&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:53689/psychoanalyst/images/avatar.jpg&#34; /&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;http://localhost:53338/images/avatar.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;http://localhost:53689/psychoanalyst/images/avatar.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
   &lt;/figure&gt;
 &lt;/div&gt;
 

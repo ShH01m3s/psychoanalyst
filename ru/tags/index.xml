@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Psycho notes</title>
-    <link>http://localhost:53338/ru/tags/</link>
+    <link>http://localhost:53689/psychoanalyst/ru/tags/</link>
     <description>Recent content in Tags on Psycho notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 01 Jan 2024 16:01:23 +0800</lastBuildDate><atom:link href="http://localhost:53338/ru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 2024 16:01:23 +0800</lastBuildDate><atom:link href="http://localhost:53689/psychoanalyst/ru/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bodylanguage</title>
-      <link>http://localhost:53338/ru/tags/bodylanguage/</link>
+      <link>http://localhost:53689/psychoanalyst/ru/tags/bodylanguage/</link>
       <pubDate>Mon, 01 Jan 2024 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:53338/ru/tags/bodylanguage/</guid>
+      <guid>http://localhost:53689/psychoanalyst/ru/tags/bodylanguage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>notes</title>
-      <link>http://localhost:53338/ru/tags/notes/</link>
+      <link>http://localhost:53689/psychoanalyst/ru/tags/notes/</link>
       <pubDate>Mon, 01 Jan 2024 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:53338/ru/tags/notes/</guid>
+      <guid>http://localhost:53689/psychoanalyst/ru/tags/notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pease</title>
-      <link>http://localhost:53338/ru/tags/pease/</link>
+      <link>http://localhost:53689/psychoanalyst/ru/tags/pease/</link>
       <pubDate>Mon, 01 Jan 2024 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:53338/ru/tags/pease/</guid>
+      <guid>http://localhost:53689/psychoanalyst/ru/tags/pease/</guid>
       <description></description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Analyst on Psycho notes</title>
-    <link>http://localhost:53338/en/post/</link>
+    <link>http://localhost:53689/psychoanalyst/en/post/</link>
     <description>Recent content in Analyst on Psycho notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="http://localhost:53338/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="http://localhost:53689/psychoanalyst/en/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>http://localhost:53338/en/post/about/</link>
+      <link>http://localhost:53689/psychoanalyst/en/post/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53338/en/post/about/</guid>
+      <guid>http://localhost:53689/psychoanalyst/en/post/about/</guid>
       <description>The quieter you become, the more you can hear&amp;hellip; (c)
 The story I want to tell&amp;hellip; &amp;hellip; or how I entered the InfoSec field
 My name&amp;rsquo;s Veronica Zvereva, and I&amp;rsquo;m a security analyst. I&amp;rsquo;m jolly excited and proud of what I do. My job is my hobby and my passion. My IT education has mostly been self-study since I got my first PC around 2008 or 2009. In those days, I believed ICQ was like a PC number (similar to a phone number) plastered on the desktop.</description>
@@ -20,10 +20,10 @@ My name&amp;rsquo;s Veronica Zvereva, and I&amp;rsquo;m a security analyst. I&am
     
     <item>
       <title>How can I help you?</title>
-      <link>http://localhost:53338/en/post/home/</link>
+      <link>http://localhost:53689/psychoanalyst/en/post/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53338/en/post/home/</guid>
+      <guid>http://localhost:53689/psychoanalyst/en/post/home/</guid>
       <description>First page in English</description>
     </item>
     

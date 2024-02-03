@@ -1,61 +1,61 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:53338/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:53689/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:53338/es/post/categories/interesting/notes/</loc>
+    <loc>http://localhost:53689/psychoanalyst/es/post/categories/interesting/notes/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:53338/es/post/blog/</loc>
+    <loc>http://localhost:53689/psychoanalyst/es/post/blog/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:53338/es/post/categories/</loc>
+    <loc>http://localhost:53689/psychoanalyst/es/post/categories/</loc>
     <lastmod>2022-07-28T15:14:39+10:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:53338/es/</loc>
+    <loc>http://localhost:53689/psychoanalyst/es/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:53338/es/post/</loc>
+    <loc>http://localhost:53689/psychoanalyst/es/post/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:53338/es/categories/</loc>
+    <loc>http://localhost:53689/psychoanalyst/es/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:53338/es/post/home/</loc>
+    <loc>http://localhost:53689/psychoanalyst/es/post/home/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:53338/es/post/about/</loc>
+    <loc>http://localhost:53689/psychoanalyst/es/post/about/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:53338/es/tags/</loc>
+    <loc>http://localhost:53689/psychoanalyst/es/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

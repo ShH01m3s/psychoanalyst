@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Psycho notes</title>
-    <link>http://localhost:53338/en/</link>
+    <link>http://localhost:53689/psychoanalyst/en/</link>
     <description>Recent content on Psycho notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -10,15 +10,15 @@
     <webMaster>bakerst221b.uk@gmail.com (Veronica)</webMaster>
     <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:53338/en/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:53689/psychoanalyst/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resources</title>
-      <link>http://localhost:53338/en/post/categories/hypnosis/resources/</link>
+      <link>http://localhost:53689/psychoanalyst/en/post/categories/hypnosis/resources/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
       <author>bakerst221b.uk@gmail.com (Veronica)</author>
-      <guid>http://localhost:53338/en/post/categories/hypnosis/resources/</guid>
+      <guid>http://localhost:53689/psychoanalyst/en/post/categories/hypnosis/resources/</guid>
       
         <description>&lt;p&gt;*This page will be a collection of links, articles, books that I&amp;rsquo;ve found useful during my journey. *&lt;/p&gt;
 &lt;h1 id=&#34;courses&#34;&gt;Courses&lt;/h1&gt;
@@ -47,10 +47,10 @@
     
     <item>
       <title>General</title>
-      <link>http://localhost:53338/en/post/categories/interesting/notes/</link>
+      <link>http://localhost:53689/psychoanalyst/en/post/categories/interesting/notes/</link>
       <pubDate>Tue, 02 Jan 2024 16:01:23 +0800</pubDate>
       <author>bakerst221b.uk@gmail.com (Veronica)</author>
-      <guid>http://localhost:53338/en/post/categories/interesting/notes/</guid>
+      <guid>http://localhost:53689/psychoanalyst/en/post/categories/interesting/notes/</guid>
       
         <description>&lt;p&gt;*In these notes common things about deceit, lies and how to spot something. *&lt;/p&gt;
 &lt;p&gt;Deceit types&lt;/p&gt;
@@ -72,10 +72,10 @@
     
     <item>
       <title>😏 Paul Ekman&#39;s Theory of Lies</title>
-      <link>http://localhost:53338/en/post/categories/bodylanguage/paulekman/</link>
+      <link>http://localhost:53689/psychoanalyst/en/post/categories/bodylanguage/paulekman/</link>
       <pubDate>Mon, 01 Jan 2024 16:01:23 +0800</pubDate>
       <author>bakerst221b.uk@gmail.com (Veronica)</author>
-      <guid>http://localhost:53338/en/post/categories/bodylanguage/paulekman/</guid>
+      <guid>http://localhost:53689/psychoanalyst/en/post/categories/bodylanguage/paulekman/</guid>
       
         <description>&lt;p&gt;For the moment, I will keep all the notes in one place. Notices are made from the book, online training and the &amp;ldquo;Lie To Me&amp;rdquo; series. When and if I make some observations, I will also keep a note.
 Always pay attention to change, not the final configuration, but the movement that produces it.&lt;/p&gt;
@@ -300,10 +300,10 @@ Always pay attention to change, not the final configuration, but the movement th
     
     <item>
       <title>Neurolinguistic Programming (NLP)</title>
-      <link>http://localhost:53338/en/post/categories/bodylanguage/nlp/</link>
+      <link>http://localhost:53689/psychoanalyst/en/post/categories/bodylanguage/nlp/</link>
       <pubDate>Mon, 01 Jan 2024 16:01:23 +0800</pubDate>
       <author>bakerst221b.uk@gmail.com (Veronica)</author>
-      <guid>http://localhost:53338/en/post/categories/bodylanguage/nlp/</guid>
+      <guid>http://localhost:53689/psychoanalyst/en/post/categories/bodylanguage/nlp/</guid>
       
         <description>&lt;h2 id=&#34;gaze&#34;&gt;Gaze&lt;/h2&gt;
 &lt;ol&gt;
@@ -329,18 +329,18 @@ Always pay attention to change, not the final configuration, but the movement th
     
     <item>
       <title>Holiday Thoughts</title>
-      <link>http://localhost:53338/en/post/blog/2024/thoughts/</link>
+      <link>http://localhost:53689/psychoanalyst/en/post/blog/2024/thoughts/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
       <author>bakerst221b.uk@gmail.com (Veronica)</author>
-      <guid>http://localhost:53338/en/post/blog/2024/thoughts/</guid>
+      <guid>http://localhost:53689/psychoanalyst/en/post/blog/2024/thoughts/</guid>
       
         <description>&lt;p&gt;&lt;em&gt;It won&amp;rsquo;t be anything related to the field of digital forensics, IR or computer science. I need to sort my thoughts. You know how it is: during the first week of your vacation, you are usually somewhere at work and home, drowning under all these problems.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Goodness, it&amp;rsquo;s so hard to compose sentences now. I start working again in 10 days and I feel so dumb.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:53338/images/blog/bike.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:53689/psychoanalyst/images/blog/bike.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;And here are some thoughts about Westminster.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:53338/images/blog/westminster.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:53689/psychoanalyst/images/blog/westminster.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Want an umbrella?&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:53338/images/blog/umbrella.jpeg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:53689/psychoanalyst/images/blog/umbrella.jpeg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;details&gt;
     &lt;summary&gt;Expand&amp;hellip;&lt;/summary&gt;
@@ -351,10 +351,10 @@ Always pay attention to change, not the final configuration, but the movement th
     
     <item>
       <title>👓 Freud&#39;s Psychopathology of Everyday Life</title>
-      <link>http://localhost:53338/en/post/categories/classics/freud/</link>
+      <link>http://localhost:53689/psychoanalyst/en/post/categories/classics/freud/</link>
       <pubDate>Thu, 28 Jul 2022 15:14:39 +1000</pubDate>
       <author>bakerst221b.uk@gmail.com (Veronica)</author>
-      <guid>http://localhost:53338/en/post/categories/classics/freud/</guid>
+      <guid>http://localhost:53689/psychoanalyst/en/post/categories/classics/freud/</guid>
       
         <description>&lt;p&gt;&lt;em&gt;This is about &amp;hellip; .&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
@@ -368,10 +368,10 @@ Always pay attention to change, not the final configuration, but the movement th
     
     <item>
       <title>Aspire Notes</title>
-      <link>http://localhost:53338/en/post/categories/hypnosis/aspire/</link>
+      <link>http://localhost:53689/psychoanalyst/en/post/categories/hypnosis/aspire/</link>
       <pubDate>Thu, 28 Jul 2022 15:14:39 +1000</pubDate>
       <author>bakerst221b.uk@gmail.com (Veronica)</author>
-      <guid>http://localhost:53338/en/post/categories/hypnosis/aspire/</guid>
+      <guid>http://localhost:53689/psychoanalyst/en/post/categories/hypnosis/aspire/</guid>
       
         <description>&lt;p&gt;Let&amp;rsquo;s see&amp;hellip;..*&lt;/p&gt;
 &lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
@@ -388,10 +388,10 @@ Always pay attention to change, not the final configuration, but the movement th
     
     <item>
       <title>Interesting</title>
-      <link>http://localhost:53338/en/post/categories/interesting/interesting/</link>
+      <link>http://localhost:53689/psychoanalyst/en/post/categories/interesting/interesting/</link>
       <pubDate>Thu, 28 Jul 2022 15:14:39 +1000</pubDate>
       <author>bakerst221b.uk@gmail.com (Veronica)</author>
-      <guid>http://localhost:53338/en/post/categories/interesting/interesting/</guid>
+      <guid>http://localhost:53689/psychoanalyst/en/post/categories/interesting/interesting/</guid>
       
         <description>&lt;p&gt;&lt;em&gt;Some interesting random facts that need to reflected on in the Blog section.&lt;/em&gt;&lt;/p&gt;
 &lt;h1 id=&#34;groups&#34;&gt;Groups&lt;/h1&gt;
@@ -409,10 +409,10 @@ Always pay attention to change, not the final configuration, but the movement th
     
     <item>
       <title>A. Pease&#39;s Body Language Study</title>
-      <link>http://localhost:53338/en/post/categories/bodylanguage/pease/</link>
+      <link>http://localhost:53689/psychoanalyst/en/post/categories/bodylanguage/pease/</link>
       <pubDate>Mon, 01 Jan 2024 16:01:23 +0800</pubDate>
       <author>bakerst221b.uk@gmail.com (Veronica)</author>
-      <guid>http://localhost:53338/en/post/categories/bodylanguage/pease/</guid>
+      <guid>http://localhost:53689/psychoanalyst/en/post/categories/bodylanguage/pease/</guid>
       
         <description>&lt;p&gt;&lt;em&gt;This is about &amp;hellip; .&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;When reading a person, it&amp;rsquo;s essential to take the other person&amp;rsquo;s emotional state and overal condition to correctly interpret their body language.&lt;/p&gt;
@@ -657,10 +657,10 @@ Always pay attention to change, not the final configuration, but the movement th
     
     <item>
       <title>About me</title>
-      <link>http://localhost:53338/en/post/about/</link>
+      <link>http://localhost:53689/psychoanalyst/en/post/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bakerst221b.uk@gmail.com (Veronica)</author>
-      <guid>http://localhost:53338/en/post/about/</guid>
+      <guid>http://localhost:53689/psychoanalyst/en/post/about/</guid>
       
         <description>&lt;blockquote&gt;
 &lt;p&gt;The quieter you become, the more you can hear&amp;hellip; (c)&lt;/p&gt;
@@ -668,14 +668,14 @@ Always pay attention to change, not the final configuration, but the movement th
 &lt;h2 id=&#34;the-story-i-want-to-tell&#34;&gt;The story I want to tell&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;&amp;hellip; or how I entered the InfoSec field&lt;/em&gt;&lt;/p&gt;
 
-&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:53338/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:53689/psychoanalyst/psychoanalyst/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34;&gt;
 &lt;figure  class=&#34;avatar&#34;  itemprop=&#34;associatedMedia&#34;
   itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:53338/images/avatar.jpg&#34; /&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:53689/psychoanalyst/images/avatar.jpg&#34; /&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;http://localhost:53338/images/avatar.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;http://localhost:53689/psychoanalyst/images/avatar.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
   &lt;/figure&gt;
 &lt;/div&gt;
 
@@ -729,10 +729,10 @@ Always pay attention to change, not the final configuration, but the movement th
     
     <item>
       <title>How can I help you?</title>
-      <link>http://localhost:53338/en/post/home/</link>
+      <link>http://localhost:53689/psychoanalyst/en/post/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bakerst221b.uk@gmail.com (Veronica)</author>
-      <guid>http://localhost:53338/en/post/home/</guid>
+      <guid>http://localhost:53689/psychoanalyst/en/post/home/</guid>
       
         <description>&lt;p&gt;&lt;img src=&#34;bike.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;First page in English&lt;/p&gt;

@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learning Psychology on Psycho notes</title>
-    <link>http://localhost:53338/ru/post/categories/</link>
+    <link>http://localhost:53689/psychoanalyst/ru/post/categories/</link>
     <description>Recent content in Learning Psychology on Psycho notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 28 Jul 2022 15:14:39 +1000</lastBuildDate><atom:link href="http://localhost:53338/ru/post/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jul 2022 15:14:39 +1000</lastBuildDate><atom:link href="http://localhost:53689/psychoanalyst/ru/post/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resources</title>
-      <link>http://localhost:53338/ru/post/categories/hypnosis/resources/</link>
+      <link>http://localhost:53689/psychoanalyst/ru/post/categories/hypnosis/resources/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53338/ru/post/categories/hypnosis/resources/</guid>
+      <guid>http://localhost:53689/psychoanalyst/ru/post/categories/hypnosis/resources/</guid>
       <description>&lt;p&gt;*This page will be a collection of links, articles, books that I&amp;rsquo;ve found useful during my journey. *&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hypnosis</title>
-      <link>http://localhost:53338/ru/post/categories/hypnosis/_indez/</link>
+      <link>http://localhost:53689/psychoanalyst/ru/post/categories/hypnosis/_indez/</link>
       <pubDate>Mon, 01 Jan 2024 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:53338/ru/post/categories/hypnosis/_indez/</guid>
+      <guid>http://localhost:53689/psychoanalyst/ru/post/categories/hypnosis/_indez/</guid>
       <description>References Expand&amp;hellip; Something here </description>
     </item>
     
     <item>
       <title>Aspire Notes</title>
-      <link>http://localhost:53338/ru/post/categories/hypnosis/aspire/</link>
+      <link>http://localhost:53689/psychoanalyst/ru/post/categories/hypnosis/aspire/</link>
       <pubDate>Thu, 28 Jul 2022 15:14:39 +1000</pubDate>
       
-      <guid>http://localhost:53338/ru/post/categories/hypnosis/aspire/</guid>
+      <guid>http://localhost:53689/psychoanalyst/ru/post/categories/hypnosis/aspire/</guid>
       <description>&lt;p&gt;Let&amp;rsquo;s see&amp;hellip;..*&lt;/p&gt;</description>
     </item>
     
